@@ -1,6 +1,7 @@
 # Family Tree Program
 ### Overview
 This is a simple C++ program that allows users to build and manage a family tree. Users can add children, spouses, and modify names within the family tree.
+
 ![image](https://github.com/TajnyReddy/Konsolowe-drzewo-genealogiczne/assets/59600478/e6568d70-3a3a-4170-81fc-ac38309c4267)
 
 ### Features
